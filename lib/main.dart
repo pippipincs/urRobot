@@ -168,7 +168,7 @@ Page resource error:
           },
         ),
       )
-      ..loadRequest(Uri.parse('https://www.google.com')); // The initial URL to load. Replace with your URL.
+      ..loadRequest(Uri.parse('http;//192.168.10.1:8085')); // The initial URL to load. Replace with your URL.
   }
 
   @override
